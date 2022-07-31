@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Bruno
 
-I'm currently studying Information Systems and working on __Solve4ME__. I'd like to become a **full-stack** developer, so am improving my skills.
+I'm currently studying Information Systems and working on __Solve4ME__. I'd like to become a **full-stack** developer, so I'm improving my skills.
 <!--
 My projects:
 - [PantherMarine](https://github.com/brunolaguna/PantherMarine)
