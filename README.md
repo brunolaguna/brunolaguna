@@ -2,8 +2,8 @@
 
 I am currently pursuing a bachelor's degree in **Information Systems** and working on __Solve4ME__. I'm interested in becoming a **full-stack** developer, so I'm improving my skills.
 
-Some projects:
-  https://brunolaguna.github.io/PadronizacaoUsuarios/
+My projects:  
+  https://brunolaguna.github.io/PadronizacaoUsuarios/  
   https://brunolaguna.github.io/PantherMarine/
 
 <!--
