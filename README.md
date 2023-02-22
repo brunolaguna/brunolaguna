@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Bruno
 
-I am currently pursuing a bachelor's degree in **Information Systems** and working on __Solve4ME__. I'm interested in becoming a **full-stack** developer, so I'm improving my skills.
+I am currently pursuing a bachelor's degree in **Information Systems** and I'm working at __Solve4ME__ company. I'm interested in becoming a **full-stack** developer, so I'm improving my skills.
 
 My projects:  
   https://brunolaguna.github.io/PadronizacaoUsuarios/  
